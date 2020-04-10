@@ -1,2 +1,2 @@
-# nlpruitt-gmail.com
+# NFL Salary Project
 NFL QB Salary Project
